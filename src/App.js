@@ -3,6 +3,7 @@ import Navbar from './Components/Navbar/Navbar'
 import Home from './Components/Home/Home'
 import Timeline from './Components/Timeline/Timeline'
 import FAQs from './Components/FAQs/faqs'
+import Footer from './Components/Footer/Footer'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
     <Home/>
     <Timeline/>
     <FAQs/>
+    <Footer/>
 
     </div>
   )
