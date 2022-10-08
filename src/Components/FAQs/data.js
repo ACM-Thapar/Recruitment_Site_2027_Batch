@@ -23,5 +23,10 @@ export const questions = [
         id: 5,
         question: "What is ACM?",
         answer: "We are a group of enthusiastic people who explore around and learn new things :)"
+    },
+    {
+        id: 6,
+        question: "What type of questions will be asked in quiz?",
+        answer: "Basic logic based and mental ability questions."
     }
 ]

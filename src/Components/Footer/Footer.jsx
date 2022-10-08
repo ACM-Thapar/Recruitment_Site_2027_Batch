@@ -1,13 +1,13 @@
 import React from 'react'
 import './Footer.css'
-import {BsInstagram, BsTwitter, BSGithub, BsGithub, BsLinkedin} from 'react-icons/bs'
+import {BsInstagram, BsTwitter, BsGithub, BsLinkedin} from 'react-icons/bs'
 
 const Footer = () => {
     return (
         <div className='footer'>
             <div className='container'>
 
-            Copyright 2022 Designed by ACM Thapar 
+            Designed by ACM Thapar 💙
 
                 <div className='social-icons'>
                 <BsInstagram size={25} style={{ color: '#757575' }}/>

@@ -38,7 +38,7 @@ const Timeline = () => {
                             <h3 className="vertical-timeline-element-title">
                                 Recruitment Form
                             </h3>
-                            <p className="mt-3 vertical-timeline-element-subtitle">
+                            <p className="vertical-timeline-element-subtitle">
                                 8 October 2022
                             </p>
                         </VerticalTimelineElement>
@@ -50,10 +50,10 @@ const Timeline = () => {
                             className="vertical-timeline-element--work"
                             iconStyle={{ background: "#0F283E", color: "#fff" }}
                         >
-                            <h3 className="vertical-timeline-element-title">Form Closes</h3>
-                            <h5 className=" mt-3 vertical-timeline-element-subtitle">
-                                25 July
-                            </h5>
+                            <h3 className="vertical-timeline-element-title"> RecruitmentForm Closes</h3>
+                            <p className="vertical-timeline-element-subtitle">
+                                11 October 2022
+                            </p>
                         </VerticalTimelineElement>
 
 
@@ -66,10 +66,10 @@ const Timeline = () => {
                             }}
                             iconStyle={{ background: "rgb(233, 30, 99)", color: "#fff" }}
                         >
-                            <h3 className="vertical-timeline-element-title">Emails Out</h3>
-                            <h5 className=" mt-3 vertical-timeline-element-subtitle">
-                                1 August
-                            </h5>
+                            <h3 className="vertical-timeline-element-title">Recruitment Quiz</h3>
+                            <p className="vertical-timeline-element-subtitle">
+                                13 October 2022
+                            </p>
                         </VerticalTimelineElement>
 
 
@@ -79,12 +79,29 @@ const Timeline = () => {
                             iconStyle={{ background: "#0F283E", color: "#fff" }}
                         >
                             <h3 className="vertical-timeline-element-title">
-                                Direct PI form
+                                Quiz Results
                             </h3>
-                            <h5 className=" mt-3 vertical-timeline-element-subtitle">
-                                1 August
-                            </h5>
+                            <p className="vertical-timeline-element-subtitle">
+                                15 October 2022
+                            </p>
                         </VerticalTimelineElement>
+
+                        <VerticalTimelineElement
+                            className="vertical-timeline-element--work"
+                            contentStyle={{ background: "#0F283E", color: "#fff" }}
+                            contentArrowStyle={{
+                                borderRight: "3px solid  #0F283E",
+                            }}
+                            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+                        >
+                            <h3 className="vertical-timeline-element-title">
+                                Personal Interview 
+                            </h3>
+                            <p className="vertical-timeline-element-subtitle">
+                                16 October 2022
+                            </p>
+                        </VerticalTimelineElement>
+
                       
                     </VerticalTimeline>
 
