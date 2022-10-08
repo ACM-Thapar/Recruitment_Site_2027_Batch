@@ -1,0 +1,18 @@
+.main-heading{
+    display: flex;
+    border-bottom: 1px solid #4F4F4F;
+    height: 5vh;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+}
+.answers{
+    padding: 30px 30px 30px 10px;
+    color: #009CD5;
+}
+
+@media screen and (max-width: 940px) {
+    .main-heading{
+        padding: 30px 0px 30px 0px;
+    }
+}
