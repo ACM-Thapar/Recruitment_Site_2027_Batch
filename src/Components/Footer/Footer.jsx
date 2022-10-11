@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import {BsInstagram, BsTwitter, BsGithub, BsLinkedin} from 'react-icons/bs'
+import {BsInstagram, BsGithub, BsLinkedin, BsDiscord} from 'react-icons/bs'
 
 const Footer = () => {
     return (
@@ -10,10 +10,10 @@ const Footer = () => {
             Designed by ACM Thapar 💙
 
                 <div className='social-icons'>
-                <BsInstagram size={25} style={{ color: '#757575' }}/>
-                <BsTwitter size={25} style={{ color: '#757575' }}/>
-                <BsGithub size={25} style={{ color: '#757575' }}/>
-                <BsLinkedin size={25} style={{ color: '#757575' }}/>
+                <a href='https://www.instagram.com/acmthapar'><BsInstagram size={25} style={{ color: '#757575' }}/></a>
+                <a href='https://discord.gg/tFY6hVSbuC'><BsDiscord size={25} style={{ color: '#757575' }}/></a>
+                <a href='https://github.com/ACM-Thapar'><BsGithub size={25} style={{ color: '#757575' }}/></a>
+                <a href='https://www.linkedin.com/company/thapar-acm-student-chapter'><BsLinkedin size={25} style={{ color: '#757575' }}/></a>
                 </div>
             </div>
         </div>
