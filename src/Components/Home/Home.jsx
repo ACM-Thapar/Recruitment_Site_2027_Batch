@@ -19,7 +19,7 @@ const Home = () => {
                         Looking for a way to get involved in Computing? ACM is the perfect opportunity! Join us to learn more about the latest trends in technology, meet other students interested in Computing, and have a lot of fun!
                     </p>
 
-                    <button className='btn'><a href='https://forms.gle/bzrGRX36sT6cbK5B8'>Register Now</a></button>
+                    <a href='https://forms.gle/bzrGRX36sT6cbK5B8'><button className='btn'>Register Now</button></a>
 
                 </div>
 
