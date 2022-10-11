@@ -7,6 +7,7 @@
     top: 0;
     left: 0;
     z-index: 10;
+    box-shadow: 0 8px 6px -6px #999;
 }
 
 .header .container{

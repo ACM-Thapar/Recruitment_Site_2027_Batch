@@ -27,19 +27,21 @@ const Timeline = () => {
 
 
                     <VerticalTimeline>
+
+
                         <VerticalTimelineElement
                             className="vertical-timeline-element--work"
                             contentStyle={{ background: "#0F283E", color: "#fff" }}
                             contentArrowStyle={{
-                                borderRight: "3px solid  #0F283E",
+                                borderRight: "3px solid  #0F28E",
                             }}
-                            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+                            iconStyle={{ background: "#6ABCF8", color: "#fff" }}
                         >
                             <h3 className="vertical-timeline-element-title">
                                 Recruitment Form
                             </h3>
                             <p className="vertical-timeline-element-subtitle">
-                                8 October 2022
+                                11 October 2022
                             </p>
                         </VerticalTimelineElement>
 
@@ -48,11 +50,11 @@ const Timeline = () => {
 
                         <VerticalTimelineElement
                             className="vertical-timeline-element--work"
-                            iconStyle={{ background: "#0F283E", color: "#fff" }}
+                            iconStyle={{ background: "#0077CB", color: "#fff" }}
                         >
                             <h3 className="vertical-timeline-element-title"> RecruitmentForm Closes</h3>
                             <p className="vertical-timeline-element-subtitle">
-                                11 October 2022
+                                15 October 2022
                             </p>
                         </VerticalTimelineElement>
 
@@ -64,11 +66,11 @@ const Timeline = () => {
                             contentArrowStyle={{
                                 borderRight: "7px solid  #0F283E",
                             }}
-                            iconStyle={{ background: "rgb(233, 30, 99)", color: "#fff" }}
+                            iconStyle={{ background: "#10293F", color: "#fff" }}
                         >
                             <h3 className="vertical-timeline-element-title">Recruitment Quiz</h3>
                             <p className="vertical-timeline-element-subtitle">
-                                13 October 2022
+                                16 October 2022
                             </p>
                         </VerticalTimelineElement>
 
@@ -76,13 +78,13 @@ const Timeline = () => {
 
                         <VerticalTimelineElement
                             className="vertical-timeline-element--work"
-                            iconStyle={{ background: "#0F283E", color: "#fff" }}
+                            iconStyle={{ background: "#0077CB", color: "#fff" }}
                         >
                             <h3 className="vertical-timeline-element-title">
                                 Quiz Results
                             </h3>
                             <p className="vertical-timeline-element-subtitle">
-                                15 October 2022
+                                Tentative
                             </p>
                         </VerticalTimelineElement>
 
@@ -92,13 +94,13 @@ const Timeline = () => {
                             contentArrowStyle={{
                                 borderRight: "3px solid  #0F283E",
                             }}
-                            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+                            iconStyle={{ background: "#6ABCF8", color: "#fff" }}
                         >
                             <h3 className="vertical-timeline-element-title">
                                 Personal Interview 
                             </h3>
                             <p className="vertical-timeline-element-subtitle">
-                                16 October 2022
+                                Tentative
                             </p>
                         </VerticalTimelineElement>
 
