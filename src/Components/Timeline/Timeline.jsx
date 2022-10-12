@@ -84,7 +84,7 @@ const Timeline = () => {
                                 Quiz Results
                             </h3>
                             <p className="vertical-timeline-element-subtitle">
-                                Tentative
+                                 Yet to be announced
                             </p>
                         </VerticalTimelineElement>
 
@@ -100,7 +100,7 @@ const Timeline = () => {
                                 Personal Interview 
                             </h3>
                             <p className="vertical-timeline-element-subtitle">
-                                Tentative
+                                Yet to be announced 
                             </p>
                         </VerticalTimelineElement>
 
