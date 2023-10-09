@@ -42,7 +42,7 @@ const Timeline = () => {
                 Recruitment Form
               </h3>
               <p className="vertical-timeline-element-subtitle">
-                11 October 2022
+                10 October 2023
               </p>
             </VerticalTimelineElement>
 
@@ -54,7 +54,7 @@ const Timeline = () => {
                 {' '}RecruitmentForm Closes
               </h3>
               <p className="vertical-timeline-element-subtitle">
-                16 October 2022
+                16 October 2023
               </p>
             </VerticalTimelineElement>
 
@@ -70,7 +70,7 @@ const Timeline = () => {
                 Recruitment Quiz
               </h3>
               <p className="vertical-timeline-element-subtitle">
-                17 October 2022
+                24 October 2022
               </p>
             </VerticalTimelineElement>
 
