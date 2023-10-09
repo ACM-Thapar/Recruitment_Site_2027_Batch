@@ -1,7 +1,7 @@
 .home .container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    margin: 4rem auto;
+    margin: 2rem auto;
     justify-content: space-between;
     align-items: center;
     padding: 0.5rem;
@@ -18,7 +18,7 @@
 }
 
 .home .img-container {
-    width: 100%;
+    width: 80%;
     display: flex;
 }
 
@@ -27,15 +27,16 @@
     margin: auto;
 }
 
-.header-1{
+.header-1 {
     color: #4F4F4F;
 }
-.header-2{
+
+.header-2 {
     color: #009CD5;
     padding-bottom: 1.5rem;
 }
 
-.para{
+.para {
     color: #4F4F4F;
     padding-bottom: 2rem;
 }
@@ -45,20 +46,12 @@
         grid-template-columns: 1fr;
         margin: 1rem 0;
     }
-    .home .left{
+
+    .home .left {
         order: 2;
     }
-    .para{
+
+    .para {
         padding-bottom: 1rem;
     }
 }
-
-
-
-
-
-
-
-
-
-
