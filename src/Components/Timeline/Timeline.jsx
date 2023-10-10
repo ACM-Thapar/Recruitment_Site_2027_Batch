@@ -51,7 +51,7 @@ const Timeline = () => {
               iconStyle={{background: '#0077CB', color: '#fff'}}
             >
               <h3 className="vertical-timeline-element-title">
-                {' '}RecruitmentForm Closes
+                {' '}Recruitment Form Closes
               </h3>
               <p className="vertical-timeline-element-subtitle">
                 16 October 2023
